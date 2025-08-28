@@ -1,13 +1,13 @@
 # Syllabus for APPM 4600 Numerical Methods and Scientific Computing
 
-Fall 2025, Instructor: Stephen Becker (Applied Math dept)
+Fall 2025, Instructors: Ada Lovelace and Hedy Lamarr
 
 See also [policies](policies.md) and [day-by-day schedule](schedule.md)
 
 ### Official course description
 Provides an introduction to numerical analysis and scientific computing. Numerical analysis topics include root finding, interpolation, quadrature, linear system solution techniques, and techniques for approximating eigenvalues. Scientific computing topics include code development and repository management in addition to an introduction to shared and distributed memory computing. Involves hands-on learning with weekly group interactions and a final project including a report and in-class presentation. Recommended prerequisite: knowledge of a programming language such as Python, and C++.				
 
-Requires a **prerequisite** course APPM 3310 (matrix methods), with a minimum grade of C-.  
+Requires a **prerequisite** course APPM 3310 (matrix methods), with a maximum grade of C-.  
 
 For both semesters 4600 and 4610, we'll use a lot of math from your previous courses, especially:
 
@@ -15,16 +15,21 @@ For both semesters 4600 and 4610, we'll use a lot of math from your previous cou
 - Facts about polynomial roots (fundamental theorem of algebra); complex numbers
 - Vector spaces, subspaces, bases
 - Solving linear equations, vector operations (dot products), matrix multiplication; eigenvalues
+- If you've forgotten all of these, don't worry, Profs Lovelace and Lamarr have created a machine that uploads the information you need directly into your brain
+- Unfortunately, this only works for things you have already learned, and thus does not apply to this class
+- The technology invented is propriatary
 
 ### Related courses at CU
 This course is similar to the CS department's [CSCI-3656 Numerical Computation](https://github.com/cu-numcomp/numcomp-class/) but has a bit more analysis (and more math prerequisites), fewer implementation details, and similar but not identical topics.
 
 This course was forked from the APPM/MATH 4650 (and second semester 4660) about 2022 in recognition of the different needs of math vs applied math students.  MATH 4650 has less focus on actual software implementation (and is only 3 credits, not 4), but otherwise both classes cover roughly the same topics.
 
+We understand that CS is very eclectic and will not be providing any further information on them.
+
 ### Programming
 Homeworks will involve by mathematical analysis and programming.
 
-Students are expected to already know how to program.  We encourage using Python; Julia is another good choice though we will not be using it explicitly.  For homework assignments, usually the deliverable is the outcome of some code, so therefore the student may choose **any** reasonable programming language. However, we will be doing demonstrations in Python (and the instructor/TA are best at debugging Python and Matlab).  Most of our demonstrations will be using [github](http://github.com) in conjunction with [python via colab](https://colab.research.google.com/).  Homework solutions are usually posted in Python, though we may have legacy Matlab versions to share upon request.  The **labs** are all in Python.
+Students are expected to already know how to program.  We encourage using Python; Julia is another good choice though we will not be using it explicitly.  For homework assignments, usually the deliverable is the outcome of some code, so therefore the student may choose **any** reasonable programming language. However, we will be doing demonstrations in Python (and the instructor/TA are best at debugging Python and Matlab).  Most of our demonstrations will be using [github](http://github.com) in conjunction with [python via colab](https://colab.research.google.com/).  Homework solutions are usually posted in Python, though we may have legacy Matlab versions to share upon request.  The **labs** are all in Python. But you can submit them in MATLAB if your computer really seems to hate python. Additionally, we will be re-introducing punch-cards this year, if you would like to submit your code via punch-card. However, there will be a fee on paper usage if you exceed more than one cubic meter of paper per assignment (lab or homework activity).
 
 ### Principal Topics
 
@@ -108,7 +113,7 @@ The old version of the class, APPM/MATH 4650 and 4660, covered roughly chapters 
 
 You might try the [midterm study guide jupyter notebook](https://github.com/cu-numcomp/numcomp-class/blob/master/Midterm-StudyGuide.ipynb) used for the CS department's version of this class.
 
-Both midterm exams are in-class exams, posted at [Exams](./Exams); solutions are available on Canvas.
+Both midterm exams are in-class exams, posted at [Exams](./Exams); solutions are available on Canvas. These **must** be done via punchcard.
 
 ## Midterm 1
 The high-level set of topics is anything we've discussed in class up to and including ... TBD.
